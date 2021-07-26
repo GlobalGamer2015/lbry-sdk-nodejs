@@ -5,6 +5,9 @@ Original code was taken and adapted from:
 - [lbryio/electron-starter](https://github.com/lbryio/electron-starter)
 - [lbryio/lbry-redux](https://github.com/lbryio/lbry-redux/blob/master/dist/bundle.es.js#L1014)
 
+## Install via NPMJS
+npm i lbry-sdk-nodejs
+
 ## Example Usage:
 
 ```javascript
